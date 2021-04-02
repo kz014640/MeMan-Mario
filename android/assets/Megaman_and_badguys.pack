@@ -1,0 +1,33 @@
+
+Megaman_and_badguys.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Mega_man
+  rotate: false
+  xy: 1, 66
+  size: 687, 34
+  orig: 687, 34
+  offset: 0, 0
+  index: -1
+Megaman_and_badguys
+  rotate: false
+  xy: 1, 26
+  size: 422, 38
+  orig: 422, 38
+  offset: 0, 0
+  index: -1
+enemie
+  rotate: false
+  xy: 690, 70
+  size: 136, 30
+  orig: 136, 30
+  offset: 0, 0
+  index: -1
+Mario_and_Enemies
+  rotate: false
+  xy: 1, 1
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
